@@ -8,7 +8,7 @@
   	</div>
   
   	<div class="login-box-body">
-    	<h4 class="login-box-msg">Enter Employee ID</h4>
+    	<h4 class="login-box-msg">Enter Employee Name</h4>
 
     	<form id="attendance">
           <div class="form-group">
